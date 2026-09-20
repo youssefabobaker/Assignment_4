@@ -14,8 +14,11 @@
             //Console.WriteLine(book.copiesInStock); // it conpiles because 'copiesInStock' is internal and can be accessed from the same assembly
             #endregion
 
-
-
+            #region Add a public string Title; field to Book. Set it and print it from Main. 
+            //Book book = new Book();
+            //book.Title = "Book Title";
+            //Console.WriteLine(book.Title);
+            #endregion
 
         }
     }
