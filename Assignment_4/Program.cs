@@ -1,4 +1,6 @@
-﻿namespace Assignment_4
+﻿using System.Drawing;
+
+namespace Assignment_4
 {
     internal class Program
     {
@@ -42,6 +44,13 @@
             //String genreName = genre.ToString();
             //Console.WriteLine(genreName);
             #endregion
+
+            #region Given string genreText = "Science";, convert it into a Genre value using Enum.Parse() and print the result.
+            //string genreText = "Science";
+            //Genre genre = (Genre)Enum.Parse(typeof(Genre), genreText);
+            //Console.WriteLine(genre);
+            #endregion
+
 
 
 
