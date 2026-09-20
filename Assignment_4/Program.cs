@@ -1,4 +1,6 @@
-﻿namespace Assignment_4
+﻿using System.Drawing;
+
+namespace Assignment_4
 {
     internal class Program
     {
@@ -18,6 +20,11 @@
             //Book book = new Book();
             //book.Title = "Book Title";
             //Console.WriteLine(book.Title);
+            #endregion
+
+            #region Declare an enum Genre { Fiction, NonFiction, Science }. Add a Genre property to Book, assign it Genre.Science, and print it. 
+            //Book book = new Book();
+            //Console.WriteLine(book.genre);
             #endregion
 
         }

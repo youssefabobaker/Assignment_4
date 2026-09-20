@@ -8,5 +8,8 @@
 
         public string Title = default!;
 
+        public Genre genre = Genre.Science;
+
+
     }
 }
