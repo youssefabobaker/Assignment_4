@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace Assignment_4
+﻿namespace Assignment_4
 {
     internal class Program
     {
@@ -26,6 +24,13 @@ namespace Assignment_4
             //Book book = new Book();
             //Console.WriteLine(book.genre);
             #endregion
+
+            #region Using the Genre enum above, print the underlying int value of Genre.Fiction, Genre.NonFiction, and Genre.Science by casting each to int.
+            //Console.WriteLine((int)Genre.Fiction);
+            //Console.WriteLine((int)Genre.NonFiction);
+            //Console.WriteLine((int)Genre.Science);
+            #endregion
+
 
         }
     }
